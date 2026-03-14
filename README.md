@@ -1,3 +1,7 @@
+
+
+https://coregame.sh/wiki/v0.0.4/reference/config/core_get_unitConfig
+
 ```
 
 
